@@ -4,7 +4,7 @@ from urllib.parse import quote_plus
 
 
 DB_USER = 'postgres'
-DB_PASSWORD = '@akshat46'
+DB_PASSWORD = 'your_password_here'
 DB_HOST = 'localhost'
 DB_PORT = '5432'
 DB_NAME = 'ravenstack_db'
