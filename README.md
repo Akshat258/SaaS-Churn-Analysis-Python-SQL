@@ -4,7 +4,7 @@ This project analyses churn patterns in a B2B SaaS environment using a dataset o
 
 Financial Impact Identified: ₹23.5 Lakhs MRR leak (₹2.82 Crore/year).
 
-🛠️ The Technical Stack
+ The Technical Stack
 
 Environment: PyCharm (Professional IDE workflow with .py scripts)
 
@@ -14,7 +14,7 @@ Language: Python (Pandas, NumPy for data manipulation)
 
 Library: SQLAlchemy (Database ORM & Pipeline Connection)
 
-📂 Repository Structure
+ Repository Structure
 
 00_Database_Schema.sql: SQL foundation and data import.
 
@@ -24,7 +24,7 @@ Library: SQLAlchemy (Database ORM & Pipeline Connection)
 
 03_churn_analysis.py: Core diagnostic logic and revenue impact calculation.
 
-🔍 Key Findings
+ Key Findings
 
 1. The Satisfaction Paradox
 Churned customers maintained an average satisfaction score of 4.0/5.0. The primary driver for leaving was a "Feature Gap" (19% of churn), indicating that product utility is a higher predictor of retention than support quality.
@@ -35,6 +35,6 @@ The DevTools industry was identified as the highest-risk segment, with a churn r
 3. Lead Quality
 Partner Referrals proved to be 2x more stable than leads generated from Events.
 
-🧠 Career Learning
+ Career Learning
 
 This project demonstrates that Technical Skill is the engine, but Business Acumen is the steering wheel. The real value for a data analyst lies in identifying actionable insights like the "Satisfaction Paradox" rather than just calculating surface-level metrics.
